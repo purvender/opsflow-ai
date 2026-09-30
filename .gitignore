@@ -1,0 +1,38 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Local environment files; keep templates trackable
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+*.egg-info/
+
+# Java and general build output
+target/
+build/
+dist/
+
+# Node.js and Next.js
+node_modules/
+.next/
+out/
+coverage/
+
+# Logs
+*.log
