@@ -41,3 +41,7 @@ The main components are:
 - Do not introduce unnecessary dependencies.
 - Do not modify unrelated files.
 - Prefer clear, boring, maintainable code over clever code.
+
+## End-of-day skill check
+
+At the end of each day, answer: did today create a repeatable workflow (used 2+ times or needed again later)? If yes, create or update one skill under `.opencode/skills/<id>/SKILL.md`; if no, write nothing.

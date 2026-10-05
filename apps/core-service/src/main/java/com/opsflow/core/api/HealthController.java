@@ -1,4 +1,4 @@
-package com.opsflow.core_service.api;
+package com.opsflow.core.api;
 
 import java.util.Map;
 

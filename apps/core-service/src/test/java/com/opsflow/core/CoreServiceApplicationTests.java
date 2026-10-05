@@ -1,4 +1,4 @@
-package com.opsflow.core_service;
+package com.opsflow.core;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
