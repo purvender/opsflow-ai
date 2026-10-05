@@ -36,3 +36,6 @@ coverage/
 
 # Logs
 *.log
+
+# Local tool output; not source
+.archify/
